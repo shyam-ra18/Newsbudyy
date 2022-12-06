@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Newsbudyy/static/css/main.31d6cfe0.css",
+    "main.js": "/Newsbudyy/static/js/main.ce125de3.js",
+    "static/media/loading.gif": "/Newsbudyy/static/media/loading.9962a93661b097924a74.gif",
+    "index.html": "/Newsbudyy/index.html",
+    "main.ce125de3.js.map": "/Newsbudyy/static/js/main.ce125de3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ce125de3.js"
+  ]
+}
