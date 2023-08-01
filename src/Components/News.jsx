@@ -70,8 +70,8 @@ export class News extends Component {
     let parsedata = await data.json();
 
     this.setState({
-      articles: this.state.articles.concat(parsedata.articles),
-      totalResults: parsedata.totalResults,
+      articles: this.state.articles?.concat(parsedata?.articles),
+      totalResults: parsedata?.totalResults,
     });
   };
 
