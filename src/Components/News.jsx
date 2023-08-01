@@ -91,7 +91,7 @@ export class News extends Component {
         >
           <div className="container">
             <div className="row">
-              {this.state.articles.map((element) => {
+              {this.state.articles?.map((element) => {
                 //For loading spinner
 
                 return (
